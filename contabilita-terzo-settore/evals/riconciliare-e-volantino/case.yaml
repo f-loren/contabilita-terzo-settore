@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: riconciliare-e-volantino
+expected_outcome: |
+  La differenza fra il registro (20,00 €) e il riepilogo dell'ente ospitante (44,50 €) è spiegata per
+  intero: una donazione di 30,00 € e una commissione di 2,50 € che mancano nel registro, e una fattura
+  da 38,00 € scritta per 35,00 €. Nessuna riga di quadratura. Il volantino non può promettere il 100%,
+  e la ricevuta di donazione può darla solo l'ente ospitante.
+context:
+  scaffold_script: place-files.sh

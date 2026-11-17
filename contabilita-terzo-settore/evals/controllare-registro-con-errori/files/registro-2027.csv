@@ -1,0 +1,26 @@
+N.;Data;Cosa;Importo;Da;A;Chi;Mezzo;Categoria;Progetto;Stato;Autorizzazione;Documento;Riga collegata
+1;08/01/2027;Quote 2027 di 18 soci;540,00;Fuori;Banca;soci;Bonifico;A.E1;Generale;Incassata;;elenco-quote.pdf;
+2;12/01/2027;Quote 2027 di 4 soci;120,00;Fuori;Cassa;soci;Contanti;A.E1;Generale;Incassata;;ricevute-quote.pdf;
+3;20/01/2027;Assicurazione dei volontari;210,00;Banca;Fuori;Assicurazioni Esempio;Bonifico;A.U2;Generale;Pagata;Consiglio 15/01;2027-01-20 03 assicurazione.pdf;
+4;05/02/2027;Contributo della Fondazione Esempio;1500,00;Fuori;Banca;Fondazione Esempio;Bonifico;A.E6;Laboratorio nelle scuole;Incassata;;lettera-fondazione.pdf;
+5;12/02/2027;Copioni stampati per il laboratorio;85,00;Banca;Fuori;Copisteria Esempio;Bonifico;A.U2;Laboratorio nelle scuole;Pagata;Consiglio 10/02;2027-02-12 05 copioni.pdf;
+6;14/02/2027;Versamento di contanti in banca;100,00;Cassa;Banca;;Contanti;A.U5;Generale;Pagata;;distinta-febbraio.pdf;
+7;15/02/2027;Materiali di scena per il laboratorio;140,00;Cassa;Fuori;Ferramenta Esempio;Contanti;A.U1;Laboratorio nelle scuole;Pagata;Consiglio 10/02;2027-02-15 07 materiali.pdf;
+8;01/03/2027;Offerte libere allo spettacolo di marzo;230,00;Fuori;Cassa;pubblico;Contanti;A.E4;Generale;Incassata;;conta-cassa-marzo.pdf;
+9;10/03/2027;Compenso alla formatrice del laboratorio;600,00;Banca;Fuori;Giada Marino;Bonifico;A.U2;Laboratorio nelle scuole;Pagata;Consiglio 10/02;2027-03-10 09 formatrice.pdf;
+10;10/03/2027;Compenso alla formatrice del laboratorio;600,00;Banca;Fuori;Giada Marino;Bonifico;A.U2;Laboratorio nelle scuole;Pagata;Consiglio 10/02;2027-03-10 09 formatrice.pdf;
+11;22/03/2027;Costumi da Tessuti Esempio;48,00;Da restituire ai soci;Fuori;Marta Gallo;Carta;A.U1;Generale;Pagata;sotto soglia;2027-03-22 11 costumi.jpg;
+12;22/03/2027;Costumi da Tessuti Esempio, seconda parte;47,00;Da restituire ai soci;Fuori;Marta Gallo;Carta;A.U1;Generale;Pagata;sotto soglia;2027-03-22 12 costumi.jpg;
+13;02/04/2027;Rimborso a Marta Gallo dei costumi;100,00;Banca;Da restituire ai soci;Marta Gallo;Bonifico;;;Pagata;;;righe 11 e 12
+15;20/04/2027;Affitto della sala prove, gennaio-aprile;320,00;Banca;Fuori;Parrocchia Esempio;Bonifico;A.U3;Generale;Pagata;Consiglio 15/01;;
+16;05/05/2027;Impianto luci: fari e mixer;780,00;Banca;Fuori;Service Esempio srl;Bonifico;A.U1;Generale;Pagata;Assemblea 28/04;2027-05-05 16 luci.pdf;
+17;12/06/2027;Trasporto delle scenografie del laboratorio;90,00;Banca;Fuori;Trasporti Esempio;Bonifico;A.U2;Laboratorio nelle scuole;Pagata;Consiglio 10/02;2027-06-12 17 trasporto.pdf;
+18;30/06/2027;Spese del conto, primo semestre;27,00;Banca;Fuori;Banca;Addebito;D.U1;Generale;Pagata;;estratto-giugno.pdf;
+19;15/09/2027;Donazione di un socio per le attività;200,00;Fuori;Cassa;Franco De Luca;Contanti;A.E4;Generale;Incassata;;ricevuta n. 3 con la dicitura «valida per la detrazione fiscale»;
+20;05/10/2027;Alimentari per la cena d'autunno;185,00;Cassa;Fuori;Alimentari Esempio;Contanti;C.U2;Cena d'autunno;Pagata;Consiglio 20/09;2027-10-05 20 alimentari.pdf;
+21;09/10/2027;Offerte alla cena d'autunno, in contanti;410,00;Fuori;Cassa;partecipanti;Contanti;C.E2;Cena d'autunno;Incassata;;conta-cassa-cena.pdf;
+22;09/10/2027;Offerte alla cena d'autunno, con bonifico;150,00;Fuori;Banca;partecipanti;Bonifico;C.E2;Cena d'autunno;Incassata;;estratto-ottobre.pdf;
+23;11/10/2027;Noleggio di tavoli e stoviglie per la cena;60,00;Cassa;Fuori;Noleggi Esempio;Contanti;;Cena d'autunno;Pagata;Consiglio 20/09;2027-10-11 23 noleggio.pdf;
+24;12/10/2027;Versamento di contanti in banca;330,00;Cassa;Banca;;Contanti;;;Pagata;;distinta-ottobre.pdf;
+25;20/10/2027;Rimborso spese forfettario ai due volontari della cena;80,00;Banca;Fuori;Ugo Serra e Lia Vitale;Bonifico;C.U2;Cena d'autunno;Pagata;Consiglio 20/09;nessuno (forfait di 40 € a testa);
+26;15/11/2027;Stampa delle locandine di dicembre;70,00;Banca;Fuori;Tipografia Esempio;Bonifico;A.U2;Generale;Pagata;Consiglio 20/09;2027-11-15 26 locandine.pdf;

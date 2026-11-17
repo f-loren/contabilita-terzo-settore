@@ -1,0 +1,25 @@
+N.;Data;Cosa;Importo;Da;A;Chi;Mezzo;Categoria;Progetto;Stato;Autorizzazione;Documento;Riga collegata
+1;10/01/2027;Rimborso ad Anna Rossi di carta e chimici;45,00;Cassa;Da restituire ai soci;Anna Rossi;Contanti;;Generale;Pagata;;;riga 31 del 2026
+2;15/01/2027;Quote 2027 di 20 soci;700,00;Fuori;Banca;soci;Bonifico;A.E1;Generale;Incassata;;elenco-quote.pdf;
+3;20/01/2027;Quote 2027 di 3 soci;105,00;Fuori;Cassa;soci;Contanti;A.E1;Generale;Incassata;;ricevute-quote.pdf;
+4;02/02/2027;Assicurazione dei volontari;180,00;Banca;Fuori;Assicurazioni Esempio;Bonifico;A.U2;Generale;Pagata;Consiglio 20/01;2027-02-02 04 assicurazione.pdf;
+5;10/02/2027;Donazioni online di febbraio;300,00;Fuori;PayPal;donatori vari;PayPal;A.E4;Generale;Incassata;;paypal-febbraio.pdf;
+6;10/02/2027;Commissioni PayPal sulle donazioni;10,50;PayPal;Fuori;PayPal;PayPal;D.U1;Generale;Pagata;;paypal-febbraio.pdf;
+7;01/03/2027;Trasferimento da PayPal al conto;289,50;PayPal;Banca;;Bonifico;;;Incassata;;;
+8;15/03/2027;Contributo del Comune per la mostra;2000,00;Fuori;Banca;Comune;Bonifico;A.E8;Mostra 2027;Incassata;;delibera-comune.pdf;
+9;20/03/2027;Stampa delle foto della mostra;650,00;Banca;Fuori;Laboratorio Esempio;Bonifico;A.U2;Mostra 2027;Pagata;Consiglio 10/03;2027-03-20 09 stampe.pdf (fattura intestata a Marco Bianchi);
+10;22/03/2027;Cornici per la mostra;120,00;Da restituire ai soci;Fuori;Marco Bianchi;Carta;A.U1;Mostra 2027;Pagata;Consiglio 10/03;2027-03-22 10 cornici.pdf;
+11;05/04/2027;Rimborso a Marco Bianchi delle cornici;120,00;Banca;Da restituire ai soci;Marco Bianchi;Bonifico;;;Pagata;;;riga 10
+12;10/04/2027;Affitto della sala per la mostra;400,00;Banca;Fuori;Circolo Esempio;Bonifico;A.U3;Mostra 2027;Pagata;Consiglio 10/03;2027-04-10 12 sala.pdf;
+13;12/04/2027;Offerte al banchetto di primavera;380,00;Fuori;Cassa;pubblico;Contanti;C.E2;Banchetto di primavera;Incassata;;conta-cassa-banchetto.pdf;
+14;12/04/2027;Oggetti da offrire al banchetto;95,00;Cassa;Fuori;Cartoleria Esempio;Contanti;C.U2;Banchetto di primavera;Pagata;Consiglio 01/04;;
+15;20/04/2027;Versamento di contanti in banca;300,00;Cassa;Banca;;Contanti;;;Pagata;;distinta-versamento.pdf;
+16;10/05/2027;Ingranditore per la camera oscura;720,00;Banca;Fuori;Foto Esempio srl;Bonifico;I.U1;Generale;Pagata;Assemblea 30/04;2027-05-10 16 ingranditore.pdf;
+17;15/06/2027;Restituzione di una quota pagata due volte (rettifica);35,00;Banca;Fuori;Luca Verdi;Bonifico;A.E1;Generale;Pagata;;2027-06-15 17 restituzione.pdf;riga 2
+18;30/06/2027;Spese del conto, primo semestre;24,00;Banca;Fuori;Banca;Addebito;D.U1;Generale;Pagata;;estratto-giugno.pdf;
+19;10/09/2027;Contributi dei soci per il corso di camera oscura;250,00;Fuori;Banca;soci iscritti al corso;Bonifico;A.E3;Generale;Incassata;;elenco-corso.pdf;
+20;15/09/2027;Compenso al docente del corso;150,00;Banca;Fuori;Elena Neri;Bonifico;A.U2;Generale;Pagata;Consiglio 01/09;2027-09-15 20 docente.pdf;
+21;20/11/2027;Carta fotografica;80,00;Da restituire ai soci;Fuori;Anna Rossi;Carta;A.U1;Generale;Pagata;Consiglio 15/11;2027-11-20 21 carta.pdf;
+22;01/12/2027;Stampa del calendario 2028;200,00;Banca;Fuori;Tipografia Esempio;;A.U2;Generale;Approvata;Consiglio 25/11;;
+23;20/12/2027;Consulenza del centro servizi;60,00;Banca;Fuori;Centro servizi;Bonifico;E.U2;Generale;Pagata;Consiglio 25/11;2027-12-20 23 consulenza.pdf;
+24;28/12/2027;Rimborso del biglietto del treno a un volontario;30,00;Cassa;Fuori;Paolo Gialli;Contanti;A.U5;Generale;Pagata;sotto soglia;2027-12-28 24 treno.pdf;

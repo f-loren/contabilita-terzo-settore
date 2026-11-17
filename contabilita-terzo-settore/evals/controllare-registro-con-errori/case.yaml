@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: controllare-registro-con-errori
+expected_outcome: |
+  Il registro contiene quattordici errori nascosti e la risposta li trova: la cassa è a 205,00 € come
+  la conta, mentre la banca non torna con l'estratto di 1.568,00 € per un doppione di 600,00 € e per
+  una riga di 70,00 € con data futura. Il rendiconto della cena ha liberalità in denaro per 560,00 €,
+  liberalità non in denaro per 96,00 € e uscite per 325,00 €. Il rimborso fisso senza scontrini ai
+  volontari non si può fare.
+context:
+  scaffold_script: place-files.sh

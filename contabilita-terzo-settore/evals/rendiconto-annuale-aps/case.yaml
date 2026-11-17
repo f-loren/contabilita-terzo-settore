@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: rendiconto-annuale-aps
+expected_outcome: |
+  Rendiconto per cassa 2027 di una APS con entrate sotto 60.000 €: entrate 3.700,00 €, uscite della
+  gestione 1.764,50 €, investimenti 720,00 €, avanzo complessivo 1.215,50 €, uguale alla variazione di
+  cassa e banca (da 920,00 € a 2.135,50 €). La spesa anticipata e non rimborsata resta fuori dal
+  rendiconto, la riga solo approvata non conta, i soldi liberi sono 1.025,50 € e il deposito al RUNTS
+  cade il 28/06/2028.
+context:
+  scaffold_script: place-files.sh

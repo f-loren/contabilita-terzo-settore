@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: registrare-da-messaggio
+expected_outcome: |
+  Quattro righe pronte da copiare per un gruppo ospitato da un'altra associazione, numerate dalla 9 e
+  con le colonne nell'ordine del registro: la spesa anticipata dalla socia, due donazioni presso
+  l'ente ospitante, il rimborso a un socio senza categoria e collegato alla riga dell'anticipo. La
+  data dello scontrino, che il messaggio non dice, viene chiesta e non inventata.
+context:
+  scaffold_script: place-files.sh
